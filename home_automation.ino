@@ -67,10 +67,10 @@ DHT dht(DHTPIN, DHTTYPE);
 uint32_t delayMS;
 
 AsyncTelegram2 myBot(client);
-const char* ssid  =  "Vladimir Routin";     // SSID WiFi network
-const char* pass  =  "Rumple123";     // Password  WiFi network
-#define CHAT_ID "493316876"
-const char* token =  "5521386787:AAHzF_eTh1og0k1aC_qYXZnQD9HcKwskcfY";  // Telegram token
+const char* ssid  =  "xxxxxxxx";     // SSID WiFi network
+const char* pass  =  "xxxxxxx";     // Password  WiFi network
+#define CHAT_ID "xxxxxx"
+const char* token =  "5xxxxxxxxkcfY";  // Telegram token
 const unsigned long BOT_MTBS = 600; // mean time between scan messages
 unsigned long bot_lasttime; // last time messages' scan has been done
 UniversalTelegramBot bot(token, client);
