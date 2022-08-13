@@ -15,7 +15,7 @@
 // See the Device Info tab, or Template settings
 #define BLYNK_TEMPLATE_ID           "TMPLcEBiD1zx"
 #define BLYNK_DEVICE_NAME           "Quickstart Device"
-#define BLYNK_AUTH_TOKEN            "awKaoZEfbLYVd6wfIKq_eVwb6vWijQ5H"
+#define BLYNK_AUTH_TOKEN            "xxxxxxxxxxx"
 
 
 // Comment this out to disable prints and save space
